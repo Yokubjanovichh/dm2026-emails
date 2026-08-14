@@ -1,0 +1,21 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Otkrytye Sistemy//DM2026//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:dm2026-24092026@osp.ru
+DTSTAMP:20260814T090000Z
+DTSTART;VALUE=DATE:20260924
+DTEND;VALUE=DATE:20260925
+SUMMARY:Форум «Управление данными. Основы цифровой экономики»
+DESCRIPTION:XI Форум «Управление данными. Основы цифровой экономики». Программа и регистрация: https://www.osp.ru/lp/dm2026
+LOCATION:Москва, Radisson Blu Leninsky Prospect Hotel
+URL:https://www.osp.ru/lp/dm2026
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра Форум «Управление данными 2026»
+END:VALARM
+END:VEVENT
+END:VCALENDAR
