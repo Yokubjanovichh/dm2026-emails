@@ -5,17 +5,20 @@ CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
 UID:dm2026-24092026@osp.ru
-DTSTAMP:20260814T090000Z
+DTSTAMP:20260819T090000Z
 DTSTART;VALUE=DATE:20260924
 DTEND;VALUE=DATE:20260925
-SUMMARY:Форум «Управление данными. Основы цифровой экономики»
-DESCRIPTION:XI Форум «Управление данными. Основы цифровой экономики». Программа и регистрация: https://www.osp.ru/lp/dm2026
-LOCATION:Москва, Radisson Blu Leninsky Prospect Hotel
+SUMMARY:Форум «Управление данными 2026»
+DESCRIPTION:XI Форум «Управление данными 2026». О
+ сновы цифровой экономики. Программа и ре
+ гистрация: https://www.osp.ru/lp/dm2026
+LOCATION:Москва\, Radisson Blu Leninsky Prospect Hotel
 URL:https://www.osp.ru/lp/dm2026
 BEGIN:VALARM
 TRIGGER:-P1D
 ACTION:DISPLAY
-DESCRIPTION:Завтра Форум «Управление данными 2026»
+DESCRIPTION:Завтра Форум «Управление данными 2
+ 026»
 END:VALARM
 END:VEVENT
 END:VCALENDAR
