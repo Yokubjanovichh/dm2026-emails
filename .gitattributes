@@ -1,0 +1,5 @@
+# .ics fayli RFC 5545 bo'yicha qator yakuni CRLF bo'lishi SHART.
+# Git Windows'da uni LF ga aylantirib qo'yardi — Яндекс.Календарь bunday faylni ochmaydi.
+*.ics binary
+*.jpg binary
+*.png binary
