@@ -1,0 +1,24 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Otkrytye Sistemy//IP2026//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ip2026-14102026@osp.ru
+DTSTAMP:20260921T060000Z
+DTSTART;VALUE=DATE:20261014
+DTEND;VALUE=DATE:20261015
+SUMMARY:Форум «Интеллектуальное предприяти
+ е 2026»
+DESCRIPTION:Стратегия\, архитектура и ИИ-агент
+ ы. https://www.osp.ru/lp/ai2026
+LOCATION:Москва\, отель «Звёзды Арбата»
+URL:https://www.osp.ru/lp/ai2026
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Завтра Форум «Интеллектуальное пр
+ едприятие 2026»
+END:VALARM
+END:VEVENT
+END:VCALENDAR
