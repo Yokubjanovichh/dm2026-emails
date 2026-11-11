@@ -1,0 +1,108 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Otkrytye sistemy//Events 2027//RU
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Мероприятия «Открытых систем» 2027
+X-WR-TIMEZONE:Europe/Moscow
+BEGIN:VEVENT
+UID:osp27-20270204-1@osp.ru
+DTSTAMP:20261111T151428Z
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:Качество данных 2027 — VIII Всероссийск
+ ая конференция
+DESCRIPTION:Создание\, развертывание и эксплуа
+ тация конвейера обеспечения гарантиров
+ анного качества данных. Качественные да
+ нные как бизнес-актив.\n\nПодробнее и реги
+ страция: https://www.osp.ru/events
+URL:https://www.osp.ru/events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:osp27-20270304-2@osp.ru
+DTSTAMP:20261111T151428Z
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:Цифровая инфраструктура 2027 — конфер
+ енция
+DESCRIPTION:Стратегический актив для безопасн
+ ости и суверенитета. Разбор кейсов по вы
+ страиванию ИТ-инфраструктуры заново в у
+ словиях ограничений.\n\nПодробнее и регис
+ трация: https://www.osp.ru/events
+URL:https://www.osp.ru/events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:osp27-20270325-3@osp.ru
+DTSTAMP:20261111T151428Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270326
+SUMMARY:DATA+AI 2027 — форум
+DESCRIPTION:Главное событие года об эффективн
+ ости бизнеса и госуправления на основе д
+ анных\, аналитики и ИИ.\n\nПодробнее и реги
+ страция: https://www.osp.ru/events
+URL:https://www.osp.ru/events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:osp27-20270422-4@osp.ru
+DTSTAMP:20261111T151428Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270423
+SUMMARY:Интеллектуальное предприятие 2027 — ф
+ орум
+DESCRIPTION:Всё о делегировании решений ИИ-аге
+ нтам и внедрении ИИ-продуктов для бизнес
+ а\, автоматизации и изменении бизнес-про
+ цессов с помощью ИИ.\n\nПодробнее и регист
+ рация: https://www.osp.ru/events
+URL:https://www.osp.ru/events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:osp27-20270609-5@osp.ru
+DTSTAMP:20261111T151428Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Управление бизнес-процессами 2027 — ф
+ орум
+DESCRIPTION:Практика построения сквозной сист
+ емы управления для устойчивости и роста 
+ бизнеса.\n\nПодробнее и регистрация: https://w
+ ww.osp.ru/events
+URL:https://www.osp.ru/events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:osp27-20270916-6@osp.ru
+DTSTAMP:20261111T151428Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
+SUMMARY:Управление данными 2027 — форум
+DESCRIPTION:XII Форум для обмена опытом между ру
+ ководителями в области управления данны
+ ми\, ИИ и цифровой трансформации.\n\nПодро
+ бнее и регистрация: https://www.osp.ru/events
+URL:https://www.osp.ru/events
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:osp27-20271014-7@osp.ru
+DTSTAMP:20261111T151428Z
+DTSTART;VALUE=DATE:20271014
+DTEND;VALUE=DATE:20271015
+SUMMARY:BITech 2027 — конференция
+DESCRIPTION:Конференция для руководителей и п
+ рофессионалов\, кому требуются эффектив
+ ные управленческие решения\, в реальном 
+ времени принимаемые на основе достоверн
+ ых и актуальных аналитических данных.\n\n
+ Подробнее и регистрация: https://www.osp.ru/events
+URL:https://www.osp.ru/events
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
