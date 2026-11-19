@@ -7,7 +7,7 @@ X-WR-CALNAME:Мероприятия «Открытых систем» 2027
 X-WR-TIMEZONE:Europe/Moscow
 BEGIN:VEVENT
 UID:osp27-20270204-1@osp.ru
-DTSTAMP:20261119T155802Z
+DTSTAMP:20261119T160803Z
 DTSTART;VALUE=DATE:20270204
 DTEND;VALUE=DATE:20270205
 SUMMARY:Качество данных 2027 — VIII Всероссийск
@@ -16,14 +16,13 @@ DESCRIPTION:Создание\, развертывание и эксплуа
  тация конвейера обеспечения гарантиров
  анного качества данных. Качественные да
  нные как бизнес-актив.\n\nПодробнее о меро
- приятии: https://www.osp.ru/lp/dataquality2026\nВсе меропр
- иятия 2027 года: https://www.osp.ru/events
+ приятии: https://www.osp.ru/lp/dataquality2026
 URL:https://www.osp.ru/lp/dataquality2026
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:osp27-20270304-2@osp.ru
-DTSTAMP:20261119T155802Z
+DTSTAMP:20261119T160803Z
 DTSTART;VALUE=DATE:20270304
 DTEND;VALUE=DATE:20270305
 SUMMARY:Цифровая инфраструктура 2027 — конфер
@@ -32,28 +31,26 @@ DESCRIPTION:Стратегический актив для безопасн
  ости и суверенитета. Разбор кейсов по вы
  страиванию ИТ-инфраструктуры заново в у
  словиях ограничений.\n\nПодробнее о мероп
- риятии: https://www.osp.ru/lp/infrastructure2026\nВсе мероп
- риятия 2027 года: https://www.osp.ru/events
+ риятии: https://www.osp.ru/lp/infrastructure2026
 URL:https://www.osp.ru/lp/infrastructure2026
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:osp27-20270325-3@osp.ru
-DTSTAMP:20261119T155802Z
+DTSTAMP:20261119T160803Z
 DTSTART;VALUE=DATE:20270325
 DTEND;VALUE=DATE:20270326
 SUMMARY:DATA+AI 2027 — форум
 DESCRIPTION:Главное событие года об эффективн
  ости бизнеса и госуправления на основе д
  анных\, аналитики и ИИ.\n\nПодробнее о меро
- приятии: https://www.osp.ru/lp/data-ai2026\nВсе мероприя
- тия 2027 года: https://www.osp.ru/events
+ приятии: https://www.osp.ru/lp/data-ai2026
 URL:https://www.osp.ru/lp/data-ai2026
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:osp27-20270422-4@osp.ru
-DTSTAMP:20261119T155802Z
+DTSTAMP:20261119T160803Z
 DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:Интеллектуальное предприятие 2027 — ф
@@ -62,14 +59,13 @@ DESCRIPTION:Всё о делегировании решений ИИ-аге
  нтам и внедрении ИИ-продуктов для бизнес
  а\, автоматизации и изменении бизнес-про
  цессов с помощью ИИ.\n\nПодробнее о меропр
- иятии: https://www.osp.ru/lp/ai2026\nВсе мероприятия 20
- 27 года: https://www.osp.ru/events
+ иятии: https://www.osp.ru/lp/ai2026
 URL:https://www.osp.ru/lp/ai2026
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:osp27-20270609-5@osp.ru
-DTSTAMP:20261119T155802Z
+DTSTAMP:20261119T160803Z
 DTSTART;VALUE=DATE:20270609
 DTEND;VALUE=DATE:20270610
 SUMMARY:Управление бизнес-процессами 2027 — ф
@@ -77,28 +73,26 @@ SUMMARY:Управление бизнес-процессами 2027 — ф
 DESCRIPTION:Практика построения сквозной сист
  емы управления для устойчивости и роста 
  бизнеса.\n\nПодробнее о мероприятии: https://w
- ww.osp.ru/lp/process-management2026\nВсе мероприятия 2027 г
- ода: https://www.osp.ru/events
+ ww.osp.ru/lp/process-management2026
 URL:https://www.osp.ru/lp/process-management2026
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:osp27-20270916-6@osp.ru
-DTSTAMP:20261119T155802Z
+DTSTAMP:20261119T160803Z
 DTSTART;VALUE=DATE:20270916
 DTEND;VALUE=DATE:20270917
 SUMMARY:Управление данными 2027 — форум
 DESCRIPTION:XII Форум для обмена опытом между ру
  ководителями в области управления данны
  ми\, ИИ и цифровой трансформации.\n\nПодро
- бнее о мероприятии: https://www.osp.ru/lp/dm2026\nВсе 
- мероприятия 2027 года: https://www.osp.ru/events
+ бнее о мероприятии: https://www.osp.ru/lp/dm2026
 URL:https://www.osp.ru/lp/dm2026
 TRANSP:TRANSPARENT
 END:VEVENT
 BEGIN:VEVENT
 UID:osp27-20271014-7@osp.ru
-DTSTAMP:20261119T155802Z
+DTSTAMP:20261119T160803Z
 DTSTART;VALUE=DATE:20271014
 DTEND;VALUE=DATE:20271015
 SUMMARY:BITech 2027 — конференция
@@ -108,7 +102,6 @@ DESCRIPTION:Конференция для руководителей и п
  времени принимаемые на основе достоверн
  ых и актуальных аналитических данных.\n\n
  Подробнее о мероприятии: https://www.osp.ru/lp/bitech
- \nВсе мероприятия 2027 года: https://www.osp.ru/events
 URL:https://www.osp.ru/lp/bitech
 TRANSP:TRANSPARENT
 END:VEVENT
